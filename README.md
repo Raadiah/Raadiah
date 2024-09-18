@@ -4,5 +4,5 @@ Welcome to my repository! This is Soomanib Kamruzzaman. I am currently working i
 
 Check Out my other coding profiles:
 
-Codeforces: https://codeforces.com/profile/Soomanib_037
-LeetCode: https://leetcode.com/u/uokfHtBF2h/
+1. Codeforces: https://codeforces.com/profile/Soomanib_037
+2. LeetCode: https://leetcode.com/u/uokfHtBF2h/
